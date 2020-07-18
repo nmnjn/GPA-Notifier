@@ -54,8 +54,16 @@ done
 # Running the Script
 Save the above code in a shell script `.sh`, or download from the repository, and run it in your terminal window.
 
-**You will need to give the executable permission to the script** 
+**You will need to give the executable permission to the script.** 
 
-Run the following command: `chmod +x slcm.sh`
+Run the following command: `chmod +x ohno.sh`
+
+---
+
+You can change how frequently the GPA is checked by changing the number of `sleep seconds` in the script. 
+
+By default it is `60 seconds` i.e the GPA is checked every minute.
+
+🌟
 
 
